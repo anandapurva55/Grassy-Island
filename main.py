@@ -180,7 +180,7 @@ screen = pygame.display.set_mode((pygame.display.Info().current_w,
                                   pygame.display.Info().current_h),
                                  pygame.FULLSCREEN)
 
-pygame.display.set_caption('Race of Math.')
+pygame.display.set_caption('Grassy Island')
 pygame.mouse.set_visible(False)
 font = pygame.font.Font(None, 50)
 
