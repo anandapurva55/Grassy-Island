@@ -86,9 +86,9 @@ def main():
 
 
         if (target.timeleft > 0):
-            if keys[K_b]:
-                car.steerleft()
             if keys[K_c]:
+                car.steerleft()
+            if keys[K_b]:
                 car.steerright()
             if keys[K_UP]:
                 car.accelerate()
