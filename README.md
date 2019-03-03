@@ -9,7 +9,7 @@ Reference to export an exe file :- https://pythonprogramming.net/converting-pyga
 
 ### Game Rules and Instructions:-
 
-1) Opening Screen. Press M to continue and see the particular command keys.
+1) Opening Screen. Press M to continue and see the other command keys.
 ![screen shot 2019-03-03 at 1 21 32 pm](https://user-images.githubusercontent.com/31860248/53692527-cb433680-3db7-11e9-89fe-37f8a52090a0.png)
 
 2) Play Screen. Follow the navigator at the bottom right to collect pink trophies.
