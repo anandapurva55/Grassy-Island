@@ -1,6 +1,6 @@
 # Grassy-Island
-This is a game developed by using PyGame Module of Python and Flask.
-The target is to collect as many pink tropies as one can by driving the car properly according to the navigator.
+This is a game developed by using PyGame Module of Python.
+The target is to collect as many pink trophies as one can by driving the car properly according to the navigator.
 
 
 ### Game Rules and Instructions:-
